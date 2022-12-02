@@ -1,0 +1,20 @@
+{
+  "name": "game_brains",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "my first hexlet project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RossJeanCarter/hexlet-js.git"
+  },
+  "author": "Ross Carter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RossJeanCarter/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/RossJeanCarter/hexlet-js#readme"
+}
